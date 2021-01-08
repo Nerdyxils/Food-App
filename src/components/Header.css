@@ -1,0 +1,12 @@
+nav {
+    background-color: teal;
+    padding: 20px;
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff !important;
+    margin: 10px;
+    text-decoration: none !important;
+    font-weight: bolder;
+}
